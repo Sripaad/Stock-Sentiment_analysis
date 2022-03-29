@@ -101,7 +101,7 @@ packaging==20.4
 pandas==1.0.3
 pandas-datareader==0.8.1
 pandocfilters==1.4.2
-paramiko==2.6.0
+paramiko==2.10.1
 parso==0.7.0
 pbr==5.4.5
 pexpect==4.8.0
